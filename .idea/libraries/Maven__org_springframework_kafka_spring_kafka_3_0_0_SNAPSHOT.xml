@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.kafka:spring-kafka:3.0.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/3.0.0-SNAPSHOT/spring-kafka-3.0.0-20221116.165742-259.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/3.0.0-SNAPSHOT/spring-kafka-3.0.0-20221117.190642-260.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/3.0.0-SNAPSHOT/spring-kafka-3.0.0-20221116.165742-259-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/3.0.0-SNAPSHOT/spring-kafka-3.0.0-20221117.190642-260-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/3.0.0-SNAPSHOT/spring-kafka-3.0.0-20221116.165742-259-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/3.0.0-SNAPSHOT/spring-kafka-3.0.0-20221117.190642-260-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
