@@ -1,4 +1,4 @@
-package com.example.stockservice.kafka;
+package com.example.emailservice.kafka;
 
 import com.example.basedomains.dto.OrderEvent;
 import org.slf4j.Logger;
@@ -16,7 +16,7 @@ public class OrderConsumer {
             groupId= "${spring.kafka.consumer.group-id}"
     )
     public void consume(OrderEvent event){
-        LOGGER.info(String.format("Order event received in the stock service => %s",event.toString()));
+        LOGGER.info(String.format("Order event received in the email service => %s",event.toString()));
     }
     // add here to save the data to a database
 }
